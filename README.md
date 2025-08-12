@@ -1,4 +1,4 @@
-🏠 Airbnb Clone (MERN Stack + MongoDB)
+🏠 Airbnb Clone (MERN Stack)
 
 A full-stack Airbnb clone built using the MERN stack: MongoDB, Express.js, and Node.js.
 This application supports user authentication, property listings, image uploads, user reviews, and rating and comments.
