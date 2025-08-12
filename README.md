@@ -39,5 +39,5 @@ Go to the project directory and start the server:
 
 ```
 cd project-directory
-node server.js
+node app.js
 ```
